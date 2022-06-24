@@ -58,6 +58,18 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
+## Commands
+```bash
+# create module
+$ nest g module <module name>
+ 
+# create controller
+$ nest g controller <module name>
+
+# create controller without spec
+$ nest g controller <module name> --no-spec
+```
+
 ## Support
 
 Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
