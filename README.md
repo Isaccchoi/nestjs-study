@@ -66,8 +66,8 @@ $ nest g module <module name>
 # create controller
 $ nest g controller <module name>
 
-# create controller without spec
-$ nest g controller <module name> --no-spec
+# create service
+$ nest g service <module name>
 ```
 
 ## Support
